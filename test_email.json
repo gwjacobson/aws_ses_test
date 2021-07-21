@@ -1,0 +1,10 @@
+{
+    "Source":"qbraid.team@qbraid.com",
+    "Template": "testtemplate",
+    "ConfigurationSetName": "test_config",
+    "Destination": {
+      "ToAddresses": [ "graemejacobson@qbraid.com"
+      ]
+    },
+    "TemplateData": "{ \"userName\":\"graeme\" }"
+  }
